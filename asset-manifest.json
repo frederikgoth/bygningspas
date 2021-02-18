@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/bygningspas/static/css/main.22b132c1.chunk.css",
-    "main.js": "/bygningspas/static/js/main.961a97cf.chunk.js",
-    "main.js.map": "/bygningspas/static/js/main.961a97cf.chunk.js.map",
+    "main.css": "/bygningspas/static/css/main.6555cb64.chunk.css",
+    "main.js": "/bygningspas/static/js/main.f8b2ffe9.chunk.js",
+    "main.js.map": "/bygningspas/static/js/main.f8b2ffe9.chunk.js.map",
     "runtime-main.js": "/bygningspas/static/js/runtime-main.4428ba35.js",
     "runtime-main.js.map": "/bygningspas/static/js/runtime-main.4428ba35.js.map",
     "static/js/2.d9fbce84.chunk.js": "/bygningspas/static/js/2.d9fbce84.chunk.js",
     "static/js/2.d9fbce84.chunk.js.map": "/bygningspas/static/js/2.d9fbce84.chunk.js.map",
     "index.html": "/bygningspas/index.html",
-    "static/css/main.22b132c1.chunk.css.map": "/bygningspas/static/css/main.22b132c1.chunk.css.map",
+    "static/css/main.6555cb64.chunk.css.map": "/bygningspas/static/css/main.6555cb64.chunk.css.map",
     "static/js/2.d9fbce84.chunk.js.LICENSE.txt": "/bygningspas/static/js/2.d9fbce84.chunk.js.LICENSE.txt",
     "static/media/SearchBar.css": "/bygningspas/static/media/background_search_mobile.a6f8ee50.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4428ba35.js",
     "static/js/2.d9fbce84.chunk.js",
-    "static/css/main.22b132c1.chunk.css",
-    "static/js/main.961a97cf.chunk.js"
+    "static/css/main.6555cb64.chunk.css",
+    "static/js/main.f8b2ffe9.chunk.js"
   ]
 }

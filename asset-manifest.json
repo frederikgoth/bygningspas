@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/bygningspas/static/css/main.3861c2f1.chunk.css",
-    "main.js": "/bygningspas/static/js/main.3ce2639d.chunk.js",
-    "main.js.map": "/bygningspas/static/js/main.3ce2639d.chunk.js.map",
+    "main.css": "/bygningspas/static/css/main.1e352a7a.chunk.css",
+    "main.js": "/bygningspas/static/js/main.8a771bcb.chunk.js",
+    "main.js.map": "/bygningspas/static/js/main.8a771bcb.chunk.js.map",
     "runtime-main.js": "/bygningspas/static/js/runtime-main.4428ba35.js",
     "runtime-main.js.map": "/bygningspas/static/js/runtime-main.4428ba35.js.map",
-    "static/js/2.d9fbce84.chunk.js": "/bygningspas/static/js/2.d9fbce84.chunk.js",
-    "static/js/2.d9fbce84.chunk.js.map": "/bygningspas/static/js/2.d9fbce84.chunk.js.map",
+    "static/js/2.be6b3bbd.chunk.js": "/bygningspas/static/js/2.be6b3bbd.chunk.js",
+    "static/js/2.be6b3bbd.chunk.js.map": "/bygningspas/static/js/2.be6b3bbd.chunk.js.map",
     "index.html": "/bygningspas/index.html",
-    "static/css/main.3861c2f1.chunk.css.map": "/bygningspas/static/css/main.3861c2f1.chunk.css.map",
-    "static/js/2.d9fbce84.chunk.js.LICENSE.txt": "/bygningspas/static/js/2.d9fbce84.chunk.js.LICENSE.txt",
+    "static/css/main.1e352a7a.chunk.css.map": "/bygningspas/static/css/main.1e352a7a.chunk.css.map",
+    "static/js/2.be6b3bbd.chunk.js.LICENSE.txt": "/bygningspas/static/js/2.be6b3bbd.chunk.js.LICENSE.txt",
     "static/media/SearchBar.css": "/bygningspas/static/media/concrete-texture-bg.95396712.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4428ba35.js",
-    "static/js/2.d9fbce84.chunk.js",
-    "static/css/main.3861c2f1.chunk.css",
-    "static/js/main.3ce2639d.chunk.js"
+    "static/js/2.be6b3bbd.chunk.js",
+    "static/css/main.1e352a7a.chunk.css",
+    "static/js/main.8a771bcb.chunk.js"
   ]
 }

@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/bygningspas/static/css/main.421e81f9.chunk.css",
-    "main.js": "/bygningspas/static/js/main.0d2f9bfb.chunk.js",
-    "main.js.map": "/bygningspas/static/js/main.0d2f9bfb.chunk.js.map",
+    "main.js": "/bygningspas/static/js/main.7462d48a.chunk.js",
+    "main.js.map": "/bygningspas/static/js/main.7462d48a.chunk.js.map",
     "runtime-main.js": "/bygningspas/static/js/runtime-main.4428ba35.js",
     "runtime-main.js.map": "/bygningspas/static/js/runtime-main.4428ba35.js.map",
-    "static/js/2.8b3986bc.chunk.js": "/bygningspas/static/js/2.8b3986bc.chunk.js",
-    "static/js/2.8b3986bc.chunk.js.map": "/bygningspas/static/js/2.8b3986bc.chunk.js.map",
+    "static/js/2.010dd849.chunk.js": "/bygningspas/static/js/2.010dd849.chunk.js",
+    "static/js/2.010dd849.chunk.js.map": "/bygningspas/static/js/2.010dd849.chunk.js.map",
     "index.html": "/bygningspas/index.html",
     "static/css/main.421e81f9.chunk.css.map": "/bygningspas/static/css/main.421e81f9.chunk.css.map",
-    "static/js/2.8b3986bc.chunk.js.LICENSE.txt": "/bygningspas/static/js/2.8b3986bc.chunk.js.LICENSE.txt",
+    "static/js/2.010dd849.chunk.js.LICENSE.txt": "/bygningspas/static/js/2.010dd849.chunk.js.LICENSE.txt",
     "static/media/SearchBar.css": "/bygningspas/static/media/concrete-texture-bg.95396712.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4428ba35.js",
-    "static/js/2.8b3986bc.chunk.js",
+    "static/js/2.010dd849.chunk.js",
     "static/css/main.421e81f9.chunk.css",
-    "static/js/main.0d2f9bfb.chunk.js"
+    "static/js/main.7462d48a.chunk.js"
   ]
 }

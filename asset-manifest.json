@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bygningspas/static/css/main.69454330.chunk.css",
-    "main.js": "/bygningspas/static/js/main.d31887cc.chunk.js",
-    "main.js.map": "/bygningspas/static/js/main.d31887cc.chunk.js.map",
+    "main.js": "/bygningspas/static/js/main.133acb56.chunk.js",
+    "main.js.map": "/bygningspas/static/js/main.133acb56.chunk.js.map",
     "runtime-main.js": "/bygningspas/static/js/runtime-main.4428ba35.js",
     "runtime-main.js.map": "/bygningspas/static/js/runtime-main.4428ba35.js.map",
     "static/css/2.fe708519.chunk.css": "/bygningspas/static/css/2.fe708519.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.fe708519.chunk.css",
     "static/js/2.6bc798bf.chunk.js",
     "static/css/main.69454330.chunk.css",
-    "static/js/main.d31887cc.chunk.js"
+    "static/js/main.133acb56.chunk.js"
   ]
 }

@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/bygningspas/static/css/main.73e3ba1a.chunk.css",
-    "main.js": "/bygningspas/static/js/main.dee86eab.chunk.js",
-    "main.js.map": "/bygningspas/static/js/main.dee86eab.chunk.js.map",
+    "main.css": "/bygningspas/static/css/main.87b61e7a.chunk.css",
+    "main.js": "/bygningspas/static/js/main.420ee41c.chunk.js",
+    "main.js.map": "/bygningspas/static/js/main.420ee41c.chunk.js.map",
     "runtime-main.js": "/bygningspas/static/js/runtime-main.4428ba35.js",
     "runtime-main.js.map": "/bygningspas/static/js/runtime-main.4428ba35.js.map",
     "static/css/2.fe708519.chunk.css": "/bygningspas/static/css/2.fe708519.chunk.css",
-    "static/js/2.ea09fa57.chunk.js": "/bygningspas/static/js/2.ea09fa57.chunk.js",
-    "static/js/2.ea09fa57.chunk.js.map": "/bygningspas/static/js/2.ea09fa57.chunk.js.map",
+    "static/js/2.ead27576.chunk.js": "/bygningspas/static/js/2.ead27576.chunk.js",
+    "static/js/2.ead27576.chunk.js.map": "/bygningspas/static/js/2.ead27576.chunk.js.map",
     "index.html": "/bygningspas/index.html",
     "static/css/2.fe708519.chunk.css.map": "/bygningspas/static/css/2.fe708519.chunk.css.map",
-    "static/css/main.73e3ba1a.chunk.css.map": "/bygningspas/static/css/main.73e3ba1a.chunk.css.map",
-    "static/js/2.ea09fa57.chunk.js.LICENSE.txt": "/bygningspas/static/js/2.ea09fa57.chunk.js.LICENSE.txt",
+    "static/css/main.87b61e7a.chunk.css.map": "/bygningspas/static/css/main.87b61e7a.chunk.css.map",
+    "static/js/2.ead27576.chunk.js.LICENSE.txt": "/bygningspas/static/js/2.ead27576.chunk.js.LICENSE.txt",
     "static/media/Fladt.8f7a7c76.jpg": "/bygningspas/static/media/Fladt.8f7a7c76.jpg",
     "static/media/Linje.81eec288.jpg": "/bygningspas/static/media/Linje.81eec288.jpg",
     "static/media/Punkt.272f955c.jpg": "/bygningspas/static/media/Punkt.272f955c.jpg",
-    "static/media/Saddel.6c251b99.jpg": "/bygningspas/static/media/Saddel.6c251b99.jpg",
+    "static/media/Saddel.6086a323.jpg": "/bygningspas/static/media/Saddel.6086a323.jpg",
     "static/media/Skråt.90771ca1.jpg": "/bygningspas/static/media/Skråt.90771ca1.jpg",
     "static/media/Stribe.0febb20f.jpg": "/bygningspas/static/media/Stribe.0febb20f.jpg",
-    "static/media/Valm.6d7431d0.jpg": "/bygningspas/static/media/Valm.6d7431d0.jpg",
+    "static/media/Valm.c83afb79.jpg": "/bygningspas/static/media/Valm.c83afb79.jpg",
     "static/media/SearchBar.css": "/bygningspas/static/media/forside.d5ced67f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4428ba35.js",
     "static/css/2.fe708519.chunk.css",
-    "static/js/2.ea09fa57.chunk.js",
-    "static/css/main.73e3ba1a.chunk.css",
-    "static/js/main.dee86eab.chunk.js"
+    "static/js/2.ead27576.chunk.js",
+    "static/css/main.87b61e7a.chunk.css",
+    "static/js/main.420ee41c.chunk.js"
   ]
 }
